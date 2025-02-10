@@ -1,20 +1,31 @@
- ### Olá! Eu sou o Michel Hoffmann 🤘🏽
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://michel-dev.netlify.app/)     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelhoffmann-/)
+<p align="left"> 
+  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHoffmann&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=6)
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
 
-## Tecnologias que uso no meu dia
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
 
-<div style="display: inline_block"><br/>
- 
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img align="center" alt="styledcomponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img align="center" alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-
-</div>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
