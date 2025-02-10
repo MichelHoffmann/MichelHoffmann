@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
+<h3 align="left"> 
 Olá, me chamo Michel, sou estudando do curso de Sistemas de informação e trabalho atualmente como suporte n2.
-</p>
+</h3>
 
 <p align="left">
   🦄 Linguagens: **Typescript, React, Node.**
